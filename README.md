@@ -10,7 +10,7 @@
 
 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **✈️Travel**, **🎧Music**,  and **🍳Cooking**  & **🎥watching movies**
 
-Right now i,m created a  Art & Gallery Compnay Website: https://balanced-rooster-1.10web.site/ 
+Right now i,m created a  Art & Gallery Compnay Website: https://balanced-rooster-1.10web.site/portfolio/
 
 <img align="right" alt ="coding" width="450" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
