@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 My Name is Gada Surya Narayana, Currently I, am learning a  **Full stack web Developer** (specializing in **React & Node.JsApplications**). At present I, am working as Bench Sales Recruiter [**LinkedIn**] (https://www.linkedin.com/in/gada-surya-narayana) at **Talent Techies Solutions LLC**. I Completed my Bachelor's in **Electrical & Electronics Engineering at Bapatla Engineering College** and will graduate in July - 2021.
+🎓 My Name is Gada Surya Narayana, Currently I, am learning a  **Full stack web Developer** (specializing in **React & Node.JsApplications**). At present I, am working as Bench Sales Recruiter [**LinkedIn**] (https://www.linkedin.com/in/suriya-narayana-b83655270) at **Aariv Technologies Inc**. I Completed my Bachelor's in **Electrical & Electronics Engineering at Bapatla Engineering College** and will graduate in July - 2021.
 
 - 📫 How to reach me **Phone no:-+919491710829** Email id:- **suryanarayana6765@gmail.com**
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_MOpBQpUch09ZLiky71_gfXtO4ldqSQg/view?usp=drive_link](https://drive.google.com/file/d/1_MOpBQpUch09ZLiky71_gfXtO4ldqSQg/view?usp=drive_link)
+- 📄 Know about my experiences ["C:\Users\surya\Downloads\B.Tech Final Year Project\Resume Formates\PDF\Gada Surya Narayana.Resume.pdf")
 
 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **✈️Travel**, **🎧Music**,  and **🍳Cooking**  & **🎥watching movies**
 
@@ -26,7 +26,6 @@ Right now i,m created a  Art & Gallery Compnay Website: https://balanced-rooster
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -37,10 +36,6 @@ Right now i,m created a  Art & Gallery Compnay Website: https://balanced-rooster
 ![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-### Cross-Platform Development
-
-![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
@@ -66,15 +61,15 @@ Right now i,m created a  Art & Gallery Compnay Website: https://balanced-rooster
 
 <h3 align="left">Links:</h3>
 <p align="left">
-<a href="https://codepen.io/suryanarayana6765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="suryanarayana6765" height="30" width="40" /></a>
-<a href="https://dev.to/dev.to" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gada-surya-narayana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gada-surya-narayana" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/codeopen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="codeopen" height="30" width="40" /></a>
-<a href="https://codesandbox.com/surya5231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="surya5231" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@suriya-mylife-mywork-mycareer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@suriya-mylife-mywork-mycareer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suryanarayana671?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suryanarayana671?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suryanarayana6765/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suryanarayana6765/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@suryanarayana6765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@suryanarayana6765" height="30" width="40" /></a>
+<a href="https://codepen.io/suryanarayana6765" target="blank"><img align="center" src="https://raw.githubusercontent.com/suryanarayana6765/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="suryanarayana6765" height="30" width="40" /></a>
+<a href="https://dev.to/dev.to" target="blank"><img align="center" src="https://raw.githubusercontent.com/suryanarayana6765/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gada-surya-narayana" target="blank"><img align="center" src="https://raw.githubusercontent.com/suryanarayana6765/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gada-surya-narayana" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/codeopen" target="blank"><img align="center" src="https://raw.githubusercontent.com/suryanarayana6765/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="codeopen" height="30" width="40" /></a>
+<a href="https://codesandbox.com/surya5231" target="blank"><img align="center" src="https://raw.githubusercontent.com/suryanarayana6765/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="surya5231" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@suriya-mylife-mywork-mycareer" target="blank"><img align="center" src="https://raw.githubusercontent.com/suryanarayana6765/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@suriya-mylife-mywork-mycareer" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/suryanarayana671?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/suryanarayana6765/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suryanarayana671?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/suryanarayana6765/" target="blank"><img align="center" src="https://raw.githubusercontent.com/suryanarayana6765/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suryanarayana6765/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@suryanarayana6765" target="blank"><img align="center" src="https://raw.githubusercontent.com/suryanarayana6765/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@suryanarayana6765" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suriyanarayana6765&show_icons=true&locale=en&layout=compact" alt="suriyanarayana6765" /></p>
