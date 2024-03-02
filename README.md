@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 My Name is Gada Surya Narayana, Currently I, am learning a  **Full stack web Developer** (specializing in **React & Node.JsApplications**). At present I, am working as Bench Sales Recruiter [**LinkedIn**] (https://www.linkedin.com/in/suriya-narayana-b83655270) at **Aariv Technologies Inc**. I Completed my Bachelor's in **Electrical & Electronics Engineering at Bapatla Engineering College** and will graduate in July - 2021.
+🎓 My Name is Gada Surya Narayana, Currently I, am learning a  **Full stack web Developer** (specializing in **React & Node.JsApplications**). At present I, am working as Bench Sales Recruiter [**LinkedIn**] (https://www.linkedin.com/in/suriya-narayana-b83655270) at **Vkan TECH Solutions Inc**. I Completed my Bachelor's in **Electrical & Electronics Engineering at Bapatla Engineering College** and will graduate in July - 2021.
 
 - 📫 How to reach me **Phone no:-+919491710829** Email id:- **suryanarayana6765@gmail.com**
   
