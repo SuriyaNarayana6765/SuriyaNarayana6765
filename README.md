@@ -2,15 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 My Name is Gada Surya Narayana, Currently I, am learning a  **Full stack web Developer** (specializing in **React & Node.JsApplications**). At present I, am working as Bench Sales Recruiter [**LinkedIn**] (https://www.linkedin.com/in/suriya-narayana-b83655270) at **Vkan TECH Solutions Inc**. I Completed my Bachelor's in **Electrical & Electronics Engineering at Bapatla Engineering College** and will graduate in July - 2021.
+🎓 My Name is Gada Surya Narayana, Currently I, am Working as  **Software Developer** (specializing in **React & Node.JsApplications**). At present I, am working as Bench Sales Recruiter [**LinkedIn**] (https://www.linkedin.com/in/suriya-narayana-b83655270/) at **Cyber Nova Innovations Technologies Inc**. I Completed my Bachelor's in **Electrical & Electronics Engineering at Bapatla Engineering College** and will graduate in July - 2021.
 
 - 📫 How to reach me **Phone no:-+919491710829** Email id:- **suryanarayana6765@gmail.com**
-  
-- 📄 Know about my experiences ["C:\Users\surya\Downloads\B.Tech Final Year Project\Resume Formates\PDF\Gada Surya Narayana.Resume.pdf")
 
 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **✈️Travel**, **🎧Music**,  and **🍳Cooking**  & **🎥watching movies**
-
-Right now i,m created a  Art & Gallery Compnay Website: https://balanced-rooster-1.10web.site/portfolio/
 
 <img align="right" alt ="coding" width="450" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
